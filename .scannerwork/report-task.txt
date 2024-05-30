@@ -1,0 +1,6 @@
+projectKey=ExamBloc4
+serverUrl=https://exam.andragogy.fr/blue/sonarqube
+serverVersion=10.4.1.88267
+dashboardUrl=https://exam.andragogy.fr/blue/sonarqube/dashboard?id=ExamBloc4
+ceTaskId=4efd1bc1-7baa-4c6d-8d27-d9b1b3662558
+ceTaskUrl=https://exam.andragogy.fr/blue/sonarqube/api/ce/task?id=4efd1bc1-7baa-4c6d-8d27-d9b1b3662558
